@@ -1,0 +1,4 @@
+For: son operaciones que se repiten hasta un determinado momento revelando un resultado, es decir es un bucle.
+&&: And su traduccion "Y", podria decirse que es un conector de dos argumentos armando asi un conjunto.
+||: Or su traduccion "O", es un conector de opcion dando asi opcion por un argumento o por otro.
+!: negacion, se coloca antes que un simbolo y este niega al mismo por ejemplo: no es igual (!=).

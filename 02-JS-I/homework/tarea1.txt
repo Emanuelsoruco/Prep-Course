@@ -1,0 +1,12 @@
+variables:
+es un nombre para un valor en lenguaje de programacion.
+strings:
+es un tipo de variable cuyo valor es una letra o cadena de texto, este valor esta precedido y finalizado por comillas ("").
+Funciones:
+son aquellas sentencias en codigo que tienen la particularidad de tener un objetivo o tarea a cumplir.
+-argumentos: los argumentos en una funcion son aquellos valores que se les da a los parametros, es decir que les damos valores a cada accion de una funcion.
+-return: devuelve o muestra los valores luego de que la funcion termina de cumplir un objetivo al finalizar o para seguir cumpliendolo.
+declaracion if:
+es una estructura para tomar deciciones, dependiendo del tipo de operacion se dara un resultado u otro.
+valores booleanos:
+son los valores que determinan si una variable o resultado es verdadero (true) o falso (falso). 
